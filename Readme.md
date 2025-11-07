@@ -14,7 +14,7 @@ The Simon Game is a classic memory-based game built using HTML, CSS, and JavaScr
 
 4. Each level adds one new color to the pattern.
 
-5. If you click the wrong color, the game ends and shows your score/level.
+5. If you click the wrong color, the game ends
 
 6. Press any key again to restart.
 
